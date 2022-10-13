@@ -1,3 +1,2 @@
-# Analysis-and-Visualization-of-Covid-19-Data
-
+# About this project
 A bunch of covid visuals using visualizations libraries of python such Plotly , Seaborn , Matplotlib ...
